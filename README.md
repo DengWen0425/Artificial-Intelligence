@@ -23,7 +23,9 @@ Check the code or documentation files for detailed information.
 * [pj4-car](https://github.com/DengWen0425/Artificial-Intelligence/tree/master/pj4-car)
 <br>
 Check the code or documentation files for detailed information. 
+
 ## Final Project —— Gomoku
+
 * [gomoku!!!](https://github.com/DengWen0425/Artificial-Intelligence/tree/master/final-gomoku)
 <br>
 This is the final project in which we have designed a powerful agent who can do really well in playing gomoku.
