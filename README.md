@@ -3,7 +3,7 @@ Labs and projects from the course  Artificial-Intelligence in Fudan University, 
 ## Labs
 
 * [lab1](https://github.com/DengWen0425/Artificial-Intelligence/tree/master/lab1)
-<br>
+
 * [lab2](https://github.com/DengWen0425/Artificial-Intelligence/tree/master/lab2)
 <br>
 * [lab3](https://github.com/DengWen0425/Artificial-Intelligence/tree/master/lab3)
