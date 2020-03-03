@@ -1,2 +1,2 @@
 # Artificial-Intelligence
-labs and project from the course  Artificial-Intelligence, fall, 2019.
+labs and projects from the course  Artificial-Intelligence in Fudan University, fall, 2019.
