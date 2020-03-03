@@ -19,4 +19,4 @@ keeps a base version.
   * Design a dynamic board and evaluation method.
   * VCX
   <br>
-  Check the code or documentation or report files for detailed information.
+  Check the code, documentation or report files for detailed information.
