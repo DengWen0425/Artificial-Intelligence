@@ -1,5 +1,5 @@
 # Gomoku AI
-This project was done by me and my parter Hongou Liu.
+This project was done by me and my partner Hongou Liu.
 
 ## Description
 We have designed three versions of agents in this project by using Monte Carlo Tree Search and Minimax Search with Alpha-Beta pruning.
